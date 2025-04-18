@@ -9,5 +9,5 @@ metadata:
 
 managedNodeGroups:
 - name: ng-1
-  instanceTypes: m5.large
+  instanceTypes: ["m5.large"]
   spot: true
